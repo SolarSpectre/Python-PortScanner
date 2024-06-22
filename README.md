@@ -7,7 +7,7 @@ This is a simple port scanner implemented in Python. It allows you to scan a tar
 1. Ensure you have Python 3 installed.
 2. Run the script with the following command:
    ```py
-    python3 scannet.py <ip>
+    python3 scanner.py <ip>
    ```
 Replace `<ip>` with the IP address you want to scan.
 
